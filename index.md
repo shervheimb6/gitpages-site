@@ -11,15 +11,35 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Welcome to Wisconsin
+Here you will find an arctic getaway were you can mibgle with the people you have been learning with and expand your network personally.
+Brainstorm contest....
+See what you and others can come up with in a strictly times event were you come up with the best ideas you can as fast as poissible. You'll be surprised at how fun it is and how offended you can get of other peoples great ideas.... All in fun!
+Workshop
+Get a quick workshop in and learn a trick you never knew that will make lif so much better!! Guaranteed!!
 
-- Bulleted
-- List
+- What is provided
 
-1. Numbered
-2. List
+1. Snacks
+
+2. Drinks
+
+3. Atmosphere
+
+4. Highspeed internet
+
+5. Fishing
+
+6. Sledding
+
+7. Hobby racing
+
+8. Twin Cities night life
+
+9. Lake in mid winter 
+
+10. Networking at its finest!
+
 
 **Bold** and _Italic_ and `Code` text
 
